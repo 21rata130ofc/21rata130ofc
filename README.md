@@ -3,7 +3,7 @@
 
 <p align="center"> Contacta conmigo: <a href="https://discord.gg/users/1310901911389474848">Discord</a></p>
 
-<p align="center">Co-Owner de <a href="https://discord.gg/kayyshop">KayyShop</a></p>
+<p align="center">En busca de trabajo
 
 <p align="center">Todos mis proyectos <a href="https://github.com/21rata130ofc?tab=repositories">aquí</a>.</p>
 
